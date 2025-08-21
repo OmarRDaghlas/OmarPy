@@ -22,3 +22,4 @@ print("Is default account (admin + 1234):", username == "admin" and password == 
 # --------------------------------------------
 print(f"\nWelcome, {username}! Your password is {len(password)} characters long")
 # Pythonassignment-2
+# Pythonassignment-2
